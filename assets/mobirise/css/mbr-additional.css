@@ -827,6 +827,10 @@ h6,
   background-color: #000000;
   border-color: #000000;
 }
+#header3-2q .mbr-section-title,
+#header3-2q .mbr-section-subtitle {
+  text-align: center;
+}
 
 #ext_menu-1y .hide-buttons .nav-btn {
   display: none !important;
