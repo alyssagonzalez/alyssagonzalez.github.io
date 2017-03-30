@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Alyssa Gonzalez Portfolio ",
-    "currentPage": "intro.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 99,
+    "uniqCompNum": 101,
     "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -2146,40 +2146,38 @@
           "meta": "By John Smith posted July 20, 2016"
         },
         {
-          "_inherit": "content5",
           "_styles": {
             ".mbr-section-title, p": {
-              "text-align": "right",
               "color": "#fff"
             }
           },
           "_tags": [
             "Theme"
           ],
-          "_name": "content8",
-          "_anchor": "content8-29",
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-2s",
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/desert2.jpg",
-            "bgColor": "#fff",
+            "bgImageRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
-              "width": 1280,
-              "height": 720,
-              "url": "https://www.youtube.com/embed/7iqqokBxYIY?rel=0&amp;showinfo=0&autoplay=0&loop=0"
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": true,
+            "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.2",
-            "overlayColor": "#ffffff",
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
             "showTitle": true,
-            "showCaption": true
+            "showText": true,
+            "showButton": false
           },
-          "title": "Some of my work.....",
-          "caption": "<p>down below is a quick sample of some of my work. I have a digital camera lense, Ice glass, a ducky, an eagle, and a few more other things. Most of my work peices are displayed under the \"Adobe Photoshop\" tab in the menu bar. If you would like to contact me, I have a contact page and a box down below.&nbsp;</p>"
+          "title": "Some of my Work&nbsp;",
+          "text": "<b>Down Below, is some of my work samples that I have done throughout the year. To see more, click in the drop down menu to see more of my work</b> <b>under the Adobe Photoshop</b> <b>page.&nbsp;</b>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
           "_styles": {
