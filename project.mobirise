@@ -2112,7 +2112,7 @@
                 "showText": true,
                 "text": "Click the Button below to get transfered to my website.&nbsp;",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">My Website&nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Watch My Story&nbsp;</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"intro.html\" data-toolbar=\"-mbrBtnMove\">My Website&nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"https://www.youtube.com/watch?v=U_w46BScjZk\" data-toolbar=\"-mbrBtnMove\">Watch My Story&nbsp;</a>"
               },
               {
                 "active": false,
