@@ -831,7 +831,6 @@ h6,
 #header3-2q .mbr-section-subtitle {
   text-align: center;
 }
-
 #ext_menu-1y .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -892,10 +891,6 @@ h6,
 #ext_menu-1y .link[aria-expanded="true"],
 #ext_menu-1y .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
-}
-#header1-24 .mbr-section-lead {
-  color: #ffffff;
-  font-family: 'Montserrat', sans-serif;
 }
 #header3-2d .mbr-section-title,
 #header3-2d .mbr-section-subtitle {
