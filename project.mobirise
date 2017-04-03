@@ -2140,7 +2140,7 @@
                 "showText": true,
                 "text": "making small movies is something I love doing. Now that I can edit my videos with Adobe, who knows what I will be able to do in the future.&nbsp;",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">My Website&nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">My YouTube Channel&nbsp;</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"intro.html\" data-toolbar=\"-mbrBtnMove\">My Website&nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://www.youtube.com/channel/UCMGcYJw9o12VrVuLq1Rum6g\" data-toolbar=\"-mbrBtnMove\">My YouTube Channel&nbsp;</a>"
               }
             ],
             "fullScreen": true,
