@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Alyssa Gonzalez Portfolio ",
-    "currentPage": "page7.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -2457,7 +2457,7 @@
     },
     "page7.html": {
       "settings": {
-        "title": "Personal Work",
+        "title": "Adobe Premier",
         "order": 4
       },
       "components": [
