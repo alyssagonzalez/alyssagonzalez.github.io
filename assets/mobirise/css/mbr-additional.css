@@ -969,3 +969,17 @@ h6,
 #ext_menu-2h .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
+#header3-2w .mbr-section-title,
+#header3-2w .mbr-section-subtitle {
+  text-align: center;
+}
+#header6-2v .mbr-section-title {
+  color: #28262b;
+}
+#header6-2v .mbr-section-text {
+  color: #565656;
+}
+#header3-2x .mbr-section-title,
+#header3-2x .mbr-section-subtitle {
+  text-align: center;
+}
